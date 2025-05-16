@@ -95,7 +95,7 @@ I'm a passionate frontend developer with a strong focus on building beautiful an
 
 ### 🌐 Let's Connect
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/@jaxa_O70)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/jaxa_O70)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)
 
 
