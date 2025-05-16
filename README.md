@@ -42,3 +42,8 @@
 ---
 
 <p align="center">Thanks for visiting my profile 🤝</p>
+
+### 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Jaxa123&theme=onedark&row=2&column=3)
+
