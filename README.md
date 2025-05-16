@@ -51,3 +51,51 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Jaxa123&theme=onedark&row=2&column=3)
 
+<h1 align="center">Hi there, I'm Jaxa 👋</h1>
+
+### 💻 Frontend Developer | HTML | CSS | JavaScript | React | Next.js
+
+I'm a passionate frontend developer with a strong focus on building beautiful and performant web interfaces. I specialize in:
+
+- ⚛️ React & Next.js
+- 🎨 Responsive UI with CSS / Tailwind / SCSS
+- ⚡ Animations with Framer Motion
+- 🛠 API integration & performance optimization
+
+---
+
+### 🛠 Tech Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+
+---
+
+### 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Jaxa123&theme=onedark&row=2&column=3)
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/Jaxa123/Jaxa123/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📈 GitHub Stats
+
+![Jaxa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaxa123&show_icons=true&theme=tokyonight)
+
+---
+
+### 🌐 Let's Connect
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/your_username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)
+
+
