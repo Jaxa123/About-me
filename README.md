@@ -41,6 +41,10 @@
 
 ---
 
+
+![snake gif](https://github.com/Jaxa123/Jaxa123/blob/output/github-contribution-grid-snake.svg)
+
+
 <p align="center">Thanks for visiting my profile 🤝</p>
 
 ### 🏆 GitHub Trophies
