@@ -1,4 +1,4 @@
-
+<!-- 
 <h1 align="center">Hi there 👋, I'm a Frontend Developer</h1>
 
 <p align="center">
@@ -49,7 +49,7 @@
 
 ### 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Jaxa123&theme=onedark&row=2&column=3)
+![trophy](https://github-profile-trophy.vercel.app/?username=Jaxa123&theme=onedark&row=2&column=3) -->
 
 <h1 align="center">Hi there, I'm Jaxa 👋</h1>
 
